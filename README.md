@@ -1,4 +1,4 @@
-# 📐 Livia de Queiroz Schendroski
+# Livia de Queiroz Schendroski
 ### Análise de Sistemas | Modelagem de Software | Engenharia de Requisitos
 
 ---
@@ -41,5 +41,5 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (Universidade São J
 
 ## 🤝 Vamos conversar?
 
-- 📧 **E-mail:** [Seu e-mail aqui]
-- 💼 **LinkedIn:** [Link do seu LinkedIn aqui]
+- 📧 **E-mail:** liviaschendroski16@gmail.com
+- 💼 **LinkedIn:** www.linkedin.com/in/liviaschendroski
