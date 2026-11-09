@@ -3,7 +3,7 @@
 
 ---
 
-👋 **Olá! Seja bem-vindo(a) ao meu perfil.**
+ **Olá Mundo! Seja bem-vindo(a) ao meu perfil.**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** (Universidade São Judas Tadeu) e **Desenvolvimento de Software Multiplataforma** (Fatec Itaquera). Atuo com foco na **estruturação, arquitetura conceitual e documentação de software**, conectando necessidades de usuários e regras de negócio a soluções tecnológicas eficientes.
 
